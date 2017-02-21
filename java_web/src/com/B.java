@@ -8,6 +8,5 @@ public class B {
 		System.out.println(10/2);
 		System.out.println(10/2);
 		System.out.println(4444);
-		System.out.println(9999);
 	}
 }
